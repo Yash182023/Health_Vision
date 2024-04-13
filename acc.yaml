@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    jsmith:
+      email: yashsharmaat2004@gmail.com
+      name: Yash Sharma
+      password: yash # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: yasho # Must be string
+  name: accst
+preauthorized:
+  emails:
+  - sharmayashat17@gmail.com
