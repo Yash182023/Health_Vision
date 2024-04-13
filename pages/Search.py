@@ -4,7 +4,7 @@ import pandas as pd
 # Load the CSV file
 @st.cache
 def load_data():
-    return pd.read_excel('C:/Users/sharm/OneDrive/Desktop/Daily_Health_Tracking/Nutrition_data.xlsx')
+    return pd.read_excel('Nutrition_data.xlsx')
 
 df = load_data()
 
